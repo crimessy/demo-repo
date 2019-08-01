@@ -1,4 +1,4 @@
-[1234567890
+﻿[1234567890
 abcdefg
 1234567890
 abcdefg]
@@ -17,4 +17,14 @@ hehe:
 1234567890
 abcdefg
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 heheyixiao 1234567890
+=======
+我牛的一比
+>>>>>>> one shot in my fork by cri 001
+=======
+我牛的一比
+
+牛逼哄哄的就是我
+>>>>>>> one shot in my fork by cri 002
